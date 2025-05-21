@@ -1,0 +1,11 @@
+{
+  "name": "acme_test_node",
+  "version": "1.0.0",
+  "description": "A simple test NPM package for SF-DevOps B9.2.7 & B9.5.1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rattlehead86",
+  "license": "ISC"
+}
